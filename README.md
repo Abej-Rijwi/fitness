@@ -109,7 +109,7 @@ REACT_APP_YOUTUBE_API_KEY=
 ESLINT_NO_DEV_ERRORS=true
 ```
 
-Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the corresponding websites from [Rapid API You-Tube Search](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download) to [Rapid API You-Tube v311](https://rapidapi.com/Glavier/api/youtube-v311/)
+Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the corresponding websites from [Rapid API You-Tube Search](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download) to [Rapid API You-Tube v311](https://rapidapi.com/Glavier/api/youtube-v311/) and [Rapid API You-Tube Search] (https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb)
 
 **Running the Project**
 
